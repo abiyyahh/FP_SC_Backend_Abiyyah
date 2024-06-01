@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Woodland Cabin",
+    "artist": "Ralph Albert Blakelock",
+    "date": "01/01/1864",
+    "description": "Oil on canvas",
+    "photo": "https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&width=800&height=555&quality=80&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FQy6IQcrDTuChwsqvH5hvBg%2Fnormalized.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vibrant Landscape, Late 19th century",
+    "artist": "Ralph Albert Blakelock",
+    "date": "01/12/1890",
+    "description": "This painting has been authenticated and catalogued by the University of Nebraska Inventory as NBI-1523, category II.",
+    "photo": "https://d7hftxdivxxvm.cloudfront.net/?resize_to=fit&width=800&height=625&quality=80&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FmbLnBd3OR_Yj9XB73ujg1Q%2Fnormalized.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Plums",
+    "artist": "John William Hill",
+    "date": "01/01/1870",
+    "description": "Hill’s conversion in the late 1850s to the aesthetics of John Ruskin and the Pre-Raphaelites was manifested most notably in his still lifes. In 1857 Ruskin wrote enthusiastically about the broken-color, or stipple, watercolor technique used by William Henry (“Bird’s Nest”) Hunt, the British master whose still lifes of humble subjects Ruskin especially prized. This watercolor well illustrates how closely Hill followed the example of Hunt as interpreted by Ruskin, creating wonderful effects with Ruskin’s prescription of “interlaced touches of pure colours,” some emulsified with gouache.",
+    "photo": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/11096/39857/main-image"
+  },
+  {
+    "id": 4,
+    "name": "The Whole Art of Marbling as Applied to Paper, Book Edges, etc.",
+    "artist": "Charles W. Woolnough",
+    "date": "01/01/1881",
+    "description": "Perhaps the most important book on British marbling, \"The Whole Art of Marbling\" provides a detailed account of the methods and materials of the craft of marbling and gives instructions for making approximately thirty traditional and \"modern\" patterns.",
+    "photo": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/591856/1229665/main-image"
+  },
+  {
+    "id": 5,
+    "name": "Pair of Flintlock Pistols of Empress Catherine",
+    "artist": "Johan Adolph Grecke",
+    "date": "01/01/1786",
+    "description": "These pistols are part of a deluxe garniture of ivory-stocked hunting arms made for Empress Catherine the Great (reigned 1762–96), whose intial (E for Ekaterine) is on the escutcheons of the grips",
+    "photo": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/24927/1710189/main-image"
+  }
+]

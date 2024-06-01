@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>See Detail</title>
+</head>
+<body style="width:100vh; height:100vh;">
+  <%= //JSON.stringify(art) %>
+
+  <img src="<%= art.photo %>" alt="" >
+
+  <h1>Update Information</h1>
+
+  <form action="/arts/<%= art.id %>/edit" method="post">
+
+   Art Name <br> <input type="text" name="name" value="<%= art.name %>"><br>
+   Artist Name <br> <input type="text" name="artist" value="<%= art.artist %>"> <br>
+   Created Date <br> <input type="date" name="date" value="<%= art.reversedDate %>"> <br>
+   Art Photo URL <br> <input type="text" name="photo" value="<%= art.photo %>"> <br>
+   Art Origin <br> <input type="text" name="placeOfOrigin" value="<%= art.placeOfOrigin %>"> <br>
+   Description <br> <textarea name="description" id="" cols="30" rows="10"><%= art.description %></textarea> <br>
+
+   <input type="submit" name="" id="" value="Add Art">
+
+  </form>
+
+
+
+  
+</body>
+</html>
